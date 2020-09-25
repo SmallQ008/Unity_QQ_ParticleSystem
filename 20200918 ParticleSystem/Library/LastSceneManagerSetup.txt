@@ -2,4 +2,3 @@ sceneSetups:
 - path: "Assets/20200925 \u4E0B\u96E8.unity"
   isLoaded: 1
   isActive: 1
-  isSubScene: 0
