@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/20201108 midterm.unity
+- path: "Assets/20201112 midterm 0608420 \u5ED6\u632F\u55AC.unity"
   isLoaded: 1
   isActive: 1
   isSubScene: 0
